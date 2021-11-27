@@ -7,4 +7,4 @@ Added one line.
 
 # Another header
 
-# Header 3 Oops
+# Header 3
